@@ -1,0 +1,6 @@
+@JXXTAPI_HostAddress = http://localhost:5063
+
+GET {{JXXTAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
