@@ -4,7 +4,7 @@ namespace JXXTAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    //原生部分 暂不修改
+    //原生部分 暂不修改 
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
