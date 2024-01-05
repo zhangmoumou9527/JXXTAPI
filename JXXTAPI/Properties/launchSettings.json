@@ -19,12 +19,13 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "https": {
+    //定义项目启动名字，配置项目地址
+    "JXXTAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7053;http://localhost:5063",
+      "applicationUrl": "https://localhost:9527",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
